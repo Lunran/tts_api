@@ -36,4 +36,4 @@
 # How to use
 
 - $ python main.py
-- $ curl -X POST -H "Content-Type: application/json" -d '{"text":"こんにちは"}' "http://localhost:5000/tts"
+- $ curl -X POST -H "Content-Type: application/json" -d '{"text":"こんにちは"}' "http://localhost:8002/tts"
